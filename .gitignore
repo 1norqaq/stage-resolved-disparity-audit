@@ -1,0 +1,23 @@
+# private or governed data
+/data/*.csv
+/data/*.parquet
+/data/*.feather
+/data/*.pkl
+/data/raw/
+/data/intermediate/
+
+# outputs
+/results/tables/*.csv
+/results/tables/*.json
+/results/figures/*.png
+/results/figures/*.pdf
+/results/logs/
+
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.DS_Store

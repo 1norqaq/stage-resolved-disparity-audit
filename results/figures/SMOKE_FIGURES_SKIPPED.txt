@@ -1,0 +1,1 @@
+Synthetic smoke mode generated tables only. Run make all on governed data for figures.

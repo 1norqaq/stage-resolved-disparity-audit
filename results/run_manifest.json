@@ -1,0 +1,16 @@
+{
+  "purpose": "Synthetic smoke test only; not paper evidence.",
+  "python": "3.13.5",
+  "rows": 5000,
+  "tables": [
+    "content_leakage.csv",
+    "hire_gate_bootstrap.csv",
+    "intermediate_stages.csv",
+    "mediation_evalues.csv",
+    "representation_probe.csv",
+    "robustness_confidence_thresholds.csv",
+    "robustness_sorting_controls.csv",
+    "screen_gate.csv",
+    "selection_rate_ratios.csv"
+  ]
+}
